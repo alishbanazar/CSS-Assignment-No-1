@@ -1,0 +1,37 @@
+.body{
+    background-color: red;
+    max-width: 1240px;
+}
+fieldset{
+    background-color: white;
+    max-width: 800px;
+    height: 1200px;
+}
+a{
+    text-decoration: none;
+}
+a{
+    background-color: black;
+    padding: 0;
+    max-width: 900px;
+    color: white;
+}
+div{
+    background-color: black;
+    width: 50%;
+    height: 30px;
+}
+h1{
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    max-width: 500px;
+}
+p{
+    text-align: justify;
+    width: 80%;
+}
+.one{
+    width: 210px;
+    height: 180px;
+}
